@@ -6,7 +6,6 @@
     "mailgun/mailgun-php": "^2.6.0",
     "predis/predis": "~1.0",
     "phpmailer/phpmailer": "~5.2",
-    "vlucas/phpdotenv": "~2.1",
     "zeuxisoo/slim-whoops": "0.5.*",
     "firebase/php-jwt": "~3.0",
     "aws/aws-sdk-php": "3.*",
@@ -25,7 +24,8 @@
     "cloudflare/sdk": "1.1.1",
     "chen-see/chen-pay": "^1.0@dev",
     "league/omnipay": "^3",
-    "lokielse/omnipay-alipay": "*"
+    "lokielse/omnipay-alipay": "*",
+    "charlottedunois/yasmin": "*"
   },
   "autoload": {
     "classmap": [
